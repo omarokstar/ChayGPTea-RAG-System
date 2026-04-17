@@ -12,7 +12,7 @@ An intelligent, context-aware AI chatbot specializing exclusively in all things 
 - **Robust Security:** Pre-configured with Helmet HTTP headers, body-size limits, and Express rate-limiters.
 - **Docker Ready:** Fully containerized for local orchestration and production deployments.
 
-## 🛠️z Tech Stack
+## 🛠️ Tech Stack
 
 **Frontend:**
 - [React 19](https://react.dev/) + [Vite](https://vitejs.dev/)
